@@ -1,12 +1,20 @@
-- 👋 Hi, I’m Mohd Sufiyan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hey, I'm Mohd Sufiyan!
+I'm a passionate Developer who loves turning ideas into real-world applications.
+I enjoy working with React, JavaScript, Tailwind CSS, and exploring new technologies to level up my skills.
+Currently, I'm building projects that focus on clean UI, smooth user experiences, and efficient performance.
 
-<!---
-Sufiyan2661/Sufiyan2661 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Skills
+HTML | CSS | JavaScript
+
+React
+
+Tailwind CSS | Material UI
+
+Python | SQL
+
+📈 Goals for 2025
+Dive deeper into Fullstack development
+
+Contribute to Open Source projects
+
+Keep learning and building exciting stuff!
