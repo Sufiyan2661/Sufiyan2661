@@ -4,13 +4,12 @@ I enjoy working with React, JavaScript, Tailwind CSS, and exploring new technolo
 Currently, I'm building projects that focus on clean UI, smooth user experiences, and efficient performance.
 
 🚀 Skills
-HTML | CSS | JavaScript
 
-React
+- HTML | CSS | JavaScript |React
 
-Tailwind CSS | Material UI
+- Tailwind CSS | Material UI
 
-Python | SQL
+- Python | SQL
 
 📈 Goals for 2025
 Dive deeper into Fullstack development
