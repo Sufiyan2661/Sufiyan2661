@@ -1,19 +1,26 @@
 👋 Hey, I'm Mohd Sufiyan!
-I'm a passionate Developer who loves turning ideas into real-world applications.
-I enjoy working with React, JavaScript, Tailwind CSS, and exploring new technologies to level up my skills.
-Currently, I'm building projects that focus on clean UI, smooth user experiences, and efficient performance.
+
+I'm a passionate Developer who loves turning ideas into real-world applications. I enjoy building clean, responsive, and user-friendly web applications while continuously improving my problem-solving skills.
+
+Currently, I’m strengthening my foundation in Data Structures & Algorithms, exploring AI/ML fundamentals, and building full-stack projects focused on performance and scalability.
 
 🚀 Skills
 
-- HTML | CSS | JavaScript |React
+Frontend: HTML | CSS | JavaScript | React
 
-- Tailwind CSS | Material UI
+UI Frameworks: Tailwind CSS | Material UI
 
-- Python | SQL
+Backend & Database: Python | SQL
+
+Core CS: Data Structures & Algorithms (learning & practicing)
 
 📈 Goals for 2025
-Dive deeper into Fullstack development
+Dive deeper into Full-Stack Development
 
-Contribute to Open Source projects
+Master DSA for strong problem-solving
 
-Keep learning and building exciting stuff!
+Explore AI/ML in depth
+
+Contribute to Open Source Projects
+
+Build scalable real-world applications
